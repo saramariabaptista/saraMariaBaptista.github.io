@@ -1,14 +1,24 @@
 h1{
-    text-align: center;
-}
+    font-family:'Cookie', cursive;
+    color: rgb(225, 194, 163);
+    text-align:center;
+}   
 a {
     text-decoration: none;
 }
 body{
     text-align: center;
-    background-color: rgb(176, 137, 104);
+    background-color: rgb(127, 85, 57);
+    font-family: 'Kalam';
+    font-size: large;
 }    
 .contentiknow {
     text-align: left;
     color:beige;
+}
+
+p{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50em;
 }
