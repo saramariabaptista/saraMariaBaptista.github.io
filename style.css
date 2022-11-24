@@ -1,5 +1,4 @@
 h1{
-    font-family:'Cookie', cursive;
     color: rgb(225, 194, 163);
     text-align:center;
 }   
@@ -9,7 +8,6 @@ a {
 body{
     text-align: center;
     background-color: rgb(127, 85, 57);
-    font-family: 'Kalam';
     font-size: large;
 }    
 .contentiknow {

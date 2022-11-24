@@ -1,0 +1,35 @@
+body {
+    font-family: 'poppins', sans-serif;
+    background-color: rgb(39, 11, 11);
+    color: beige;
+    text-align: center;
+}
+.names{
+    text-align: left;
+    line-height: 22px;
+    font: size 17%;
+    font-family: 'poppins', sans-serif;
+    text-
+}
+h1, h3{
+    font-family: 'poppins', sans-serif;
+}
+.picture {
+    border-radius: 100%;
+    width: 200px; 
+    height: 200px;
+    align-self: center;
+}
+.button{
+    color:beige
+    text-align: center;
+    text-decoration: none;
+    background-color: rgb(77, 27, 27);
+    font-family: 'poppins', sans-serif;
+    padding: 15px 50px;
+    border-radius: 12px;
+}
+a {
+    text-decoration: none;
+    color: beige;
+}
