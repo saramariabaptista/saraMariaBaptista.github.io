@@ -12,11 +12,23 @@ body{
 .presentantion-block{
     color: rgb(190, 166, 141);
     width: 350px;;
-    text-align: justify;
+    text-align: center;
+    background-color:rgba(53, 15, 14, 0.562);
+    padding: 15 15 0 15;
  
+}
+.presentantion-block li {
+    text-align: left;
 }
 .presentantion-block img {
     width: 200px;
     padding: 10px;
     margin-left: 20%;
+}
+li {
+    list-style-type:square;
+    list-style-image: linear-gradient(to left bottom, rgb(34, 1, 1), rgb(221, 158, 158))
+}
+a {
+    text-decoration: none;
 }
