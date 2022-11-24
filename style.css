@@ -15,15 +15,14 @@ body{
     text-align: center;
     background-color:rgba(53, 15, 14, 0.562);
     padding: 15 15 0 15;
- 
 }
 .presentantion-block li {
     text-align: left;
+    margin-bottom: 0;
 }
 .presentantion-block img {
     width: 200px;
     padding: 10px;
-    margin-left: 20%;
 }
 li {
     list-style-type:square;
@@ -31,4 +30,11 @@ li {
 }
 a {
     text-decoration: none;
+}
+.footer{
+    text-align: center;
+    color:rgba(88, 79, 79, 0.795);
+    margin-top: 250px;
+    background-color: rgb(44, 11, 11);
+    padding: 1%;
 }
